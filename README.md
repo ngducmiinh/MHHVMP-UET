@@ -1,2 +1,2 @@
 # MHHVMP
- Mô hình hoá và mô phongt tập tính bầy đàn của ếch
+ Mô hình hoá và mô phỏng hiện tượng bầy đàn của ếch
